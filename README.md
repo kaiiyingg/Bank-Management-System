@@ -19,21 +19,4 @@ A C-based program that simulates a basic banking system, allowing users to creat
 - C compiler (e.g., GCC)
 - Basic understanding of C programming and command-line operations.
 
-## How to Run
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/simple-banking-system.git
-    cd simple-banking-system
-    ```
-2. Compile the program:
-    ```bash
-    gcc banking_system.c -o banking_system
-    ```
-3. Run the executable:
-    ```bash
-    ./banking_system
-    ```
 
-## Example Usage
-### Menu Options:
-1. **Account creation**: Input required details:
