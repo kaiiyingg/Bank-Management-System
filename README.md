@@ -35,7 +35,7 @@ The project demonstrates fundamental programming concepts such as struct usage, 
 
 ## **Author**  
 Chong Kai Ying  
-[kaiying367@gmail.com](mailto:kaiying367@gmail.com)  
+[chongkaiying578@gmail.com](mailto:chongkaiying576@gmail.com)  
 
 ---
 
